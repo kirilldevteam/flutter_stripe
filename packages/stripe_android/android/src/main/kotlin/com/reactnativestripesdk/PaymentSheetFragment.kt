@@ -18,7 +18,7 @@ import android.widget.FrameLayout
 import androidx.appcompat.content.res.AppCompatResources
 import androidx.core.graphics.drawable.DrawableCompat
 import androidx.fragment.app.Fragment
-import com.facebook.react.bridge.*
+import com.stripe.facebook.react.bridge.*
 import com.reactnativestripesdk.addresssheet.AddressSheetView
 import com.reactnativestripesdk.utils.*
 import com.reactnativestripesdk.utils.createError

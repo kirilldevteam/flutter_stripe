@@ -2,7 +2,7 @@ package com.reactnativestripesdk.utils
 
 import android.os.Bundle
 import android.util.Log
-import com.facebook.react.bridge.*
+import com.stripe.facebook.react.bridge.*
 import com.stripe.android.PaymentAuthConfig
 import com.stripe.android.model.*
 import com.stripe.android.model.StripeIntent.NextActionType

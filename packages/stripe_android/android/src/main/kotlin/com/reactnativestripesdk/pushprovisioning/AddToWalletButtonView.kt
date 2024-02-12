@@ -13,11 +13,11 @@ import com.bumptech.glide.load.engine.GlideException
 import com.bumptech.glide.load.model.GlideUrl
 import com.bumptech.glide.request.RequestListener
 import com.bumptech.glide.request.target.Target
-import com.facebook.react.bridge.ReadableMap
-import com.facebook.react.bridge.WritableMap
-import com.facebook.react.uimanager.ThemedReactContext
-import com.facebook.react.uimanager.UIManagerModule
-import com.facebook.react.uimanager.events.EventDispatcher
+import com.stripe.facebook.react.bridge.ReadableMap
+import com.stripe.facebook.react.bridge.WritableMap
+import com.stripe.facebook.react.uimanager.ThemedReactContext
+import com.stripe.facebook.react.uimanager.UIManagerModule
+import com.stripe.facebook.react.uimanager.events.EventDispatcher
 import com.reactnativestripesdk.utils.createError
 
 

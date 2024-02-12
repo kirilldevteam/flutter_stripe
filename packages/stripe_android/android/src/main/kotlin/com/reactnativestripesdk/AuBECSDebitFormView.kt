@@ -3,10 +3,10 @@ package com.reactnativestripesdk
 import android.content.res.ColorStateList
 import android.graphics.Color
 import android.widget.FrameLayout
-import com.facebook.react.bridge.ReadableMap
-import com.facebook.react.uimanager.ThemedReactContext
-import com.facebook.react.uimanager.UIManagerModule
-import com.facebook.react.uimanager.events.EventDispatcher
+import com.stripe.facebook.react.bridge.ReadableMap
+import com.stripe.facebook.react.uimanager.ThemedReactContext
+import com.stripe.facebook.react.uimanager.UIManagerModule
+import com.stripe.facebook.react.uimanager.events.EventDispatcher
 import com.google.android.material.shape.CornerFamily
 import com.google.android.material.shape.MaterialShapeDrawable
 import com.google.android.material.shape.ShapeAppearanceModel

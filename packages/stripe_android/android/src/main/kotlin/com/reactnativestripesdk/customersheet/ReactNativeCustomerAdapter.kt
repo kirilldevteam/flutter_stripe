@@ -1,10 +1,10 @@
 package com.reactnativestripesdk.customersheet
 
 import android.util.Log
-import com.facebook.react.bridge.Arguments
-import com.facebook.react.bridge.ReactApplicationContext
-import com.facebook.react.bridge.ReadableMap
-import com.facebook.react.bridge.WritableMap
+import com.stripe.facebook.react.bridge.Arguments
+import com.stripe.facebook.react.bridge.ReactApplicationContext
+import com.stripe.facebook.react.bridge.ReadableMap
+import com.stripe.facebook.react.bridge.WritableMap
 import com.reactnativestripesdk.StripeSdkModule
 import com.stripe.android.customersheet.CustomerAdapter
 import com.stripe.android.customersheet.ExperimentalCustomerSheetApi

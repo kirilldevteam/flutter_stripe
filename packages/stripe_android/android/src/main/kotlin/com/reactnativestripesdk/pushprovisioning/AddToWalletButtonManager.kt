@@ -2,11 +2,11 @@ package com.reactnativestripesdk.pushprovisioning
 
 import android.content.Context
 import com.bumptech.glide.Glide
-import com.facebook.react.bridge.ReadableMap
-import com.facebook.react.common.MapBuilder
-import com.facebook.react.uimanager.SimpleViewManager
-import com.facebook.react.uimanager.ThemedReactContext
-import com.facebook.react.uimanager.annotations.ReactProp
+import com.stripe.facebook.react.bridge.ReadableMap
+import com.stripe.facebook.react.common.MapBuilder
+import com.stripe.facebook.react.uimanager.SimpleViewManager
+import com.stripe.facebook.react.uimanager.ThemedReactContext
+import com.stripe.facebook.react.uimanager.annotations.ReactProp
 
 
 class AddToWalletButtonManager(applicationContext: Context) : SimpleViewManager<AddToWalletButtonView?>() {

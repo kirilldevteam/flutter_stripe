@@ -1,6 +1,6 @@
 package com.reactnativestripesdk
 
-import com.facebook.react.bridge.ReadableMap
+import com.stripe.facebook.react.bridge.ReadableMap
 import com.reactnativestripesdk.utils.*
 import com.reactnativestripesdk.utils.mapToBillingDetails
 import com.reactnativestripesdk.utils.mapToUSBankAccountHolderType

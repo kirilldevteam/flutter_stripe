@@ -12,7 +12,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.FrameLayout
 import androidx.fragment.app.Fragment
-import com.facebook.react.bridge.*
+import com.stripe.facebook.react.bridge.*
 import com.reactnativestripesdk.customersheet.ReactNativeCustomerAdapter
 import com.reactnativestripesdk.utils.*
 import com.stripe.android.customersheet.CustomerAdapter

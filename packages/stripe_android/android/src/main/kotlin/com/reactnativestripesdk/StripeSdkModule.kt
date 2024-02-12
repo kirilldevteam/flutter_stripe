@@ -5,9 +5,9 @@ import android.content.Intent
 import android.os.Parcelable
 import android.util.Log
 import androidx.fragment.app.FragmentActivity
-import com.facebook.react.bridge.*
-import com.facebook.react.module.annotations.ReactModule
-import com.facebook.react.modules.core.DeviceEventManagerModule
+import com.stripe.facebook.react.bridge.*
+import com.stripe.facebook.react.module.annotations.ReactModule
+import com.stripe.facebook.react.modules.core.DeviceEventManagerModule
 import com.flutter.stripe.activityResultRegistry
 import com.flutter.stripe.invoke
 import com.reactnativestripesdk.addresssheet.AddressLauncherFragment

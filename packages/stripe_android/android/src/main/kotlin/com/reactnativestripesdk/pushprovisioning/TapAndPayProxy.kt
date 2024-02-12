@@ -2,9 +2,9 @@ package com.reactnativestripesdk.pushprovisioning
 
 import android.app.Activity
 import android.util.Log
-import com.facebook.react.bridge.ReadableMap
-import com.facebook.react.bridge.WritableMap
-import com.facebook.react.bridge.WritableNativeMap
+import com.stripe.facebook.react.bridge.ReadableMap
+import com.stripe.facebook.react.bridge.WritableMap
+import com.stripe.facebook.react.bridge.WritableNativeMap
 import com.reactnativestripesdk.utils.createError
 import com.google.android.gms.tasks.Task
 

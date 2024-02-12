@@ -1,8 +1,8 @@
 package com.reactnativestripesdk
 
-import com.facebook.react.uimanager.SimpleViewManager
-import com.facebook.react.uimanager.ThemedReactContext
-import com.facebook.react.uimanager.annotations.ReactProp
+import com.stripe.facebook.react.uimanager.SimpleViewManager
+import com.stripe.facebook.react.uimanager.ThemedReactContext
+import com.stripe.facebook.react.uimanager.annotations.ReactProp
 
 class GooglePayButtonManager : SimpleViewManager<GooglePayButtonView?>() {
   override fun getName(): String {

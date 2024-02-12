@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.FrameLayout
 import androidx.fragment.app.Fragment
-import com.facebook.react.bridge.Promise
-import com.facebook.react.bridge.ReactApplicationContext
+import com.stripe.facebook.react.bridge.Promise
+import com.stripe.facebook.react.bridge.ReactApplicationContext
 import com.reactnativestripesdk.utils.removeFragment
 import com.stripe.android.googlepaylauncher.GooglePayEnvironment
 import com.stripe.android.googlepaylauncher.GooglePayPaymentMethodLauncher

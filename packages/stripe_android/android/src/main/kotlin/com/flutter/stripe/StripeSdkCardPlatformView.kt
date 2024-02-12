@@ -4,8 +4,8 @@ import android.content.Context
 import android.view.View
 import android.view.inputmethod.InputMethodManager
 import androidx.annotation.NonNull
-import com.facebook.react.bridge.ReadableMap
-import com.facebook.react.uimanager.ThemedReactContext
+import com.stripe.facebook.react.bridge.ReadableMap
+import com.stripe.facebook.react.uimanager.ThemedReactContext
 import com.reactnativestripesdk.*
 import com.reactnativestripesdk.utils.getIntOrNull
 import com.reactnativestripesdk.utils.getValOr
